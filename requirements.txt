@@ -1,0 +1,12 @@
+llama-cpp-python
+numpy
+pandas
+language-tool-python
+emoji
+nltk
+scikit-learn==1.3.0
+scipy
+wandb
+torch
+lightning
+torchtext
